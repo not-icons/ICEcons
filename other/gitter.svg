@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="gitter.svg"
-   id="svg22"
-   version="1.1"
-   viewBox="0 0 48 48"
+   width="48"
    height="48"
-   width="48">
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg22">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -28,73 +24,25 @@
   </metadata>
   <defs
      id="defs26" />
-  <sodipodi:namedview
-     inkscape:current-layer="svg22"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="21.472839"
-     inkscape:cx="20.052197"
-     inkscape:zoom="16.000001"
-     inkscape:snap-tangential="true"
-     inkscape:snap-perpendicular="true"
-     inkscape:snap-path-mask="true"
-     inkscape:snap-path-clip="true"
-     inkscape:pagecheckerboard="true"
-     showgrid="false"
-     id="namedview24"
-     inkscape:window-height="1027"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     inkscape:document-rotation="0">
-    <sodipodi:guide
-       id="guide30"
-       orientation="0,48"
-       position="5,43" />
-    <sodipodi:guide
-       id="guide32"
-       orientation="48,0"
-       position="43,43" />
-    <sodipodi:guide
-       id="guide34"
-       orientation="0,-48"
-       position="43,5" />
-    <sodipodi:guide
-       id="guide36"
-       orientation="-48,0"
-       position="5,43" />
-  </sodipodi:namedview>
   <g
-     transform="matrix(1.8620339,0,0,1.8620339,-21.416539,-20.704797)"
-     inkscape:label="Gitter Logo"
+     style="display:inline"
      id="g978"
-     style="display:inline">
+     transform="matrix(1.8620339,0,0,1.8620339,-21.416539,-20.704797)">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 17.757812,13.804688 h 1.390625 V 25.5 h -1.386718 z"
        id="path66"
-       inkscape:label="0" />
-    <path
-       inkscape:label="1"
-       id="path66-1"
-       d="m 21.742187,17.777343 h 1.390625 V 34.21248 h -1.386718 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 17.757812,13.804688 h 1.390625 V 25.5 h -1.386718 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 25.703517,17.777343 h 1.390625 V 34.21248 h -1.386718 z"
-       id="path66-1-0"
-       inkscape:label="2" />
+       d="m 21.742187,17.777343 h 1.390625 V 34.21248 h -1.386718 z"
+       id="path66-1" />
     <path
-       inkscape:label="3"
-       id="path66-1-0-3"
+       id="path66-1-0"
+       d="m 25.703517,17.777343 h 1.390625 V 34.21248 h -1.386718 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.812371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 29.633209,17.777343 h 1.390625 v 7.718283 h -1.386718 z"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.812371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path66-1-0-3" />
   </g>
 </svg>

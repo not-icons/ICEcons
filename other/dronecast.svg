@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="dronecast.svg"
-   id="svg22"
-   version="1.1"
-   viewBox="0 0 48 48"
+   width="48"
    height="48"
-   width="48">
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg22">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -28,70 +24,20 @@
   </metadata>
   <defs
      id="defs26" />
-  <sodipodi:namedview
-     inkscape:current-layer="svg22"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="25.416029"
-     inkscape:cx="27.841814"
-     inkscape:zoom="16"
-     inkscape:snap-tangential="true"
-     inkscape:snap-perpendicular="true"
-     inkscape:snap-path-mask="true"
-     inkscape:snap-path-clip="true"
-     inkscape:pagecheckerboard="true"
-     showgrid="false"
-     id="namedview24"
-     inkscape:window-height="1027"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     inkscape:document-rotation="0">
-    <sodipodi:guide
-       id="guide30"
-       orientation="0,48"
-       position="5,43" />
-    <sodipodi:guide
-       id="guide32"
-       orientation="48,0"
-       position="43,43" />
-    <sodipodi:guide
-       id="guide34"
-       orientation="0,-48"
-       position="43,5" />
-    <sodipodi:guide
-       id="guide36"
-       orientation="-48,0"
-       position="5,43" />
-  </sodipodi:namedview>
   <g
-     transform="matrix(1.5893397,0,0,1.5893397,-14.206696,-14.273686)"
-     inkscape:label="Dronecast Logo"
-     id="g936">
+     id="g936"
+     transform="matrix(1.5893397,0,0,1.5893397,-14.206696,-14.273686)">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 12.084702,35.993032 22.726852,12.16997 21.289062,28.410157 Z"
        id="path913"
-       inkscape:label="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:label="2"
-       id="path913-0"
-       d="M 35.994002,35.993032 25.351852,12.16997 26.789642,28.410157 Z"
+       d="M 12.084702,35.993032 22.726852,12.16997 21.289062,28.410157 Z"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 22.621093,28.410157 H 25.37558 L 24.039352,12.16997 Z"
+       d="M 35.994002,35.993032 25.351852,12.16997 26.789642,28.410157 Z"
+       id="path913-0" />
+    <path
        id="path930"
-       inkscape:label="1"
-       sodipodi:nodetypes="cccc" />
+       d="M 22.621093,28.410157 H 25.37558 L 24.039352,12.16997 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

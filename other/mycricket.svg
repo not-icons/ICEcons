@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="mycricket.svg"
-   id="svg22"
-   version="1.1"
-   viewBox="0 0 48 48"
+   width="48"
    height="48"
-   width="48">
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg22">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -28,70 +24,20 @@
   </metadata>
   <defs
      id="defs26" />
-  <sodipodi:namedview
-     inkscape:current-layer="svg22"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="33.625412"
-     inkscape:cx="23.808565"
-     inkscape:zoom="11.313709"
-     inkscape:snap-tangential="true"
-     inkscape:snap-perpendicular="true"
-     inkscape:snap-path-mask="true"
-     inkscape:snap-path-clip="true"
-     inkscape:pagecheckerboard="true"
-     showgrid="false"
-     id="namedview24"
-     inkscape:window-height="1027"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     inkscape:document-rotation="0">
-    <sodipodi:guide
-       id="guide30"
-       orientation="0,48"
-       position="5,43" />
-    <sodipodi:guide
-       id="guide32"
-       orientation="48,0"
-       position="43,43" />
-    <sodipodi:guide
-       id="guide34"
-       orientation="0,-48"
-       position="43,5" />
-    <sodipodi:guide
-       id="guide36"
-       orientation="-48,0"
-       position="5,43" />
-  </sodipodi:namedview>
   <g
-     transform="matrix(1.3855046,0,0,1.3855046,-10.865246,-8.3177915)"
-     inkscape:label="myCricKet Logo"
-     id="g898">
+     id="g898"
+     transform="matrix(1.3855046,0,0,1.3855046,-10.865246,-8.3177915)">
     <path
-       inkscape:label="2"
-       id="path869-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 26.900388,27.400389 -4.294749,4.242187 4.505688,4.828126 8.414062,-0.03125 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       sodipodi:nodetypes="ccccc" />
+       id="path869-5" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 14.847656,37.039062 -0.04297,-8.421875 12.242187,-12.0625 h 8.210937 z"
        id="path892"
-       inkscape:label="1"
-       sodipodi:nodetypes="ccccc" />
+       d="m 14.847656,37.039062 -0.04297,-8.421875 12.242187,-12.0625 h 8.210937 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 14.926582,9.6122324 h 5.866776 V 20.439805 L 14.8032,26.301057 Z"
        id="path869"
-       inkscape:label="0"
-       sodipodi:nodetypes="ccccc" />
+       d="m 14.926582,9.6122324 h 5.866776 V 20.439805 L 14.8032,26.301057 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
