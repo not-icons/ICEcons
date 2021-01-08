@@ -33,9 +33,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:cy="23.917972"
-     inkscape:cx="11.730886"
-     inkscape:zoom="11.313709"
+     inkscape:cy="21.472839"
+     inkscape:cx="20.052197"
+     inkscape:zoom="16.000001"
      inkscape:snap-tangential="true"
      inkscape:snap-perpendicular="true"
      inkscape:snap-path-mask="true"
@@ -52,7 +52,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff">
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        id="guide30"
        orientation="0,48"
@@ -73,49 +74,27 @@
   <g
      transform="matrix(1.8620339,0,0,1.8620339,-21.416539,-20.704797)"
      inkscape:label="Gitter Logo"
-     id="g978">
-    <g
-       id="g69"
-       inkscape:label="Gitter Logo"
-       style="fill:#ffffff;fill-opacity:1;stroke:none">
-      <path
-         inkscape:label="0"
-         id="path66"
-         d="m 17.757812,13.804688 h 1.390625 V 25.5 h -1.386718 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       inkscape:label="Gitter Logo"
-       id="g69-6"
-       transform="matrix(1,0,0,1.4052756,3.9843751,-1.622048)">
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 17.757812,13.804688 h 1.390625 V 25.5 h -1.386718 z"
-         id="path66-1"
-         inkscape:label="1" />
-    </g>
-    <g
-       transform="matrix(1,0,0,1.4052756,7.9457049,-1.622048)"
-       id="g69-6-3"
-       inkscape:label="Gitter Logo"
-       style="fill:#ffffff;fill-opacity:1;stroke:none">
-      <path
-         inkscape:label="2"
-         id="path66-1-0"
-         d="m 17.757812,13.804688 h 1.390625 V 25.5 h -1.386718 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       inkscape:label="Gitter Logo"
-       id="g69-6-3-7"
-       transform="matrix(1,0,0,0.65994668,11.875397,8.6669853)">
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 17.757812,13.804688 h 1.390625 V 25.5 h -1.386718 z"
-         id="path66-1-0-3"
-         inkscape:label="3" />
-    </g>
+     id="g978"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17.757812,13.804688 h 1.390625 V 25.5 h -1.386718 z"
+       id="path66"
+       inkscape:label="0" />
+    <path
+       inkscape:label="1"
+       id="path66-1"
+       d="m 21.742187,17.777343 h 1.390625 V 34.21248 h -1.386718 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.703517,17.777343 h 1.390625 V 34.21248 h -1.386718 z"
+       id="path66-1-0"
+       inkscape:label="2" />
+    <path
+       inkscape:label="3"
+       id="path66-1-0-3"
+       d="m 29.633209,17.777343 h 1.390625 v 7.718283 h -1.386718 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.812371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
